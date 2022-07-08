@@ -1,0 +1,2 @@
+UART.c:7:6:UART_Init	8	static
+UART.c:27:6:UART_Transmit	16	static

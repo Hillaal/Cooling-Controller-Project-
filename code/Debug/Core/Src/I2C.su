@@ -1,0 +1,3 @@
+I2C.c:23:6:I2C1_Init	8	static
+I2C.c:53:6:I2C1_MasterTx	32	static
+I2C.c:80:6:I2C1_MasterRx	32	static

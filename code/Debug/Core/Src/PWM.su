@@ -1,0 +1,3 @@
+PWM.c:16:6:PWM_INIT	16	static
+PWM.c:110:6:PWM_START_TIMER	16	static
+PWM.c:116:6:PWM_ChangeDutycycle	32	static

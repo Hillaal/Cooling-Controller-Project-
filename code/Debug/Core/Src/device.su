@@ -1,0 +1,2 @@
+device.c:6:6:Init_Device	8	static
+device.c:26:7:Get_Data	16	static
